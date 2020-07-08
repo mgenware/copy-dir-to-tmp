@@ -1,0 +1,1 @@
+yarn add typescript mocha "@types/node" "@types/mocha" source-map-support eslint "@typescript-eslint/parser" "@typescript-eslint/eslint-plugin" "eslint-config-airbnb-typescript-lite" "eslint-plugin-import" daizong -D && rm -- "$0"
